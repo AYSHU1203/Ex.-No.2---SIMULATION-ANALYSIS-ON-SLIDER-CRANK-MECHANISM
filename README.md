@@ -44,7 +44,10 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![Screenshot 2025-04-27 104631](https://github.com/user-attachments/assets/b5a2aa13-41e0-4eff-8365-5bc9e667264c)
+![Screenshot 2025-04-27 105447](https://github.com/user-attachments/assets/037eecf4-1941-4e8d-9123-881276e05674)
+
+![Screenshot 2025-04-27 105505](https://github.com/user-attachments/assets/cc7721b3-2ab8-463f-a661-f230bdd5881c)
+
 
 ### Name: AYSHWARIYA J
 ### Register Number: 212224230030
